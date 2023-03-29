@@ -1,7 +1,0 @@
- {
-    "books" : [
-      { "id": 1, "name": "Core Java" },
-      { "id": 2, "name": "Angular" },
-      { "id": 3, "name": "Hibernate" }
-    ]
- }
